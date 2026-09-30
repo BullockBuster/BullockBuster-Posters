@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="./posters"><strong>Final Posters</strong></a>
-  &nbsp;&nbsp;â€¢&nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="./alternates"><strong>Alternate Designs</strong></a>
-  &nbsp;&nbsp;â€¢&nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="./overlays"><strong>Overlays</strong></a>
-  &nbsp;&nbsp;â€¢&nbsp;&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/BullockBuster/BullockBuster-Posters/archive/refs/heads/main.zip"><strong>Download Everything</strong></a>
 </p>
 
@@ -30,11 +30,11 @@ Each design begins with my own concept and visual direction, then develops throu
 
 ```text
 BullockBuster-Posters/
-â”œâ”€â”€ posters/             Final selected collection posters
-â”œâ”€â”€ alternates/          Additional approved variations
-â”œâ”€â”€ overlays/            Downloadable overlay graphics
-â””â”€â”€ assets/
-    â””â”€â”€ branding/        BullockBuster project branding
+├── posters/             Final selected collection posters
+├── alternates/          Additional approved variations
+├── overlays/            Downloadable overlay graphics
+└── assets/
+    └── branding/        BullockBuster project branding
 ```
 
 ## Downloading Artwork
@@ -50,7 +50,7 @@ BullockBuster-Posters/
 
 Use the **Download Everything** link above or select:
 
-**Code â†’ Download ZIP**
+**Code → Download ZIP**
 
 This downloads the complete repository, including final posters, alternate designs, overlays, and project branding.
 
