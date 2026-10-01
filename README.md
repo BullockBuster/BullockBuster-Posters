@@ -1,24 +1,46 @@
 <p align="center">
-  <img src="./assets/branding/BullockBuster%20Avatar.png" alt="BullockBuster BB monogram" width="180">
+  <img src="./assets/branding/BullockBuster%20Social%20Preview.png" alt="BullockBuster Collection Posters" width="1000">
 </p>
 
 <h1 align="center">BullockBuster Collection Posters</h1>
 
 <p align="center">
-  Custom collection artwork for Plex and personal media libraries.
+  Custom cinematic collection artwork for Plex and personal media libraries.
 </p>
 
 <p align="center">
   <a href="./posters"><strong>Final Posters</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;|&nbsp;
   <a href="./alternates"><strong>Alternate Designs</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="./overlays"><strong>Overlays</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/BullockBuster/BullockBuster-Posters/archive/refs/heads/main.zip"><strong>Download Everything</strong></a>
+  &nbsp;|&nbsp;
+  <a href="./overlays"><strong>Direct From Disc Overlay</strong></a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/BullockBuster/BullockBuster-Posters/releases/latest"><strong>Latest Release</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BullockBuster/BullockBuster-Posters/releases/latest/download/BullockBuster-Collection-Posters.zip"><strong>Download the Complete Collection</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BullockBuster/BullockBuster-Posters/releases">
+    <img src="https://img.shields.io/github/downloads/BullockBuster/BullockBuster-Posters/total?style=flat-square&amp;label=Release%20Downloads&amp;color=B8860B" alt="Total tracked release downloads">
+  </a>
 </p>
 
 ---
+
+## Collection Preview
+
+<p align="center">
+  <a href="./posters">
+    <img src="./assets/branding/BullockBuster%20Poster%20Showcase.jpg" alt="A selection of BullockBuster collection posters" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click the preview to browse all final posters.</em>
+</p>
 
 ## About BullockBuster
 
@@ -30,11 +52,11 @@ Each design begins with my own concept and visual direction, then develops throu
 
 ```text
 BullockBuster-Posters/
-├── posters/             Final selected collection posters
-├── alternates/          Additional approved variations
-├── overlays/            Downloadable overlay graphics
-└── assets/
-    └── branding/        BullockBuster project branding
+|-- posters/             Final selected collection posters
+|-- alternates/          Additional approved variations
+|-- overlays/            Downloadable overlay graphics
+`-- assets/
+    `-- branding/        BullockBuster branding and README visuals
 ```
 
 ## Downloading Artwork
@@ -48,11 +70,9 @@ BullockBuster-Posters/
 
 ### Download the Complete Collection
 
-Use the **Download Everything** link above or select:
+Use the **Download the Complete Collection** link near the top of this page, or download **BullockBuster-Collection-Posters.zip** from the [latest release](https://github.com/BullockBuster/BullockBuster-Posters/releases/latest).
 
-**Code → Download ZIP**
-
-This downloads the complete repository, including final posters, alternate designs, overlays, and project branding.
+The named ZIP is the recommended complete download and includes the final posters, alternate designs, overlays, and project branding.
 
 ## Using a Poster in Plex
 
@@ -61,6 +81,21 @@ This downloads the complete repository, including final posters, alternate desig
 3. Open the **Poster** section.
 4. Choose or drag in the downloaded PNG.
 5. Save your changes.
+
+## Direct From Disc Assets
+
+<p align="center">
+  <a href="./posters/Direct%20From%20Disc%20Collection%20Poster.png">
+    <img src="./posters/Direct%20From%20Disc%20Collection%20Poster.png" alt="Direct From Disc collection poster" width="280">
+  </a>
+</p>
+
+The repository includes a matching collection poster and transparent overlay for identifying titles sourced directly from your own physical media.
+
+- [Direct From Disc Collection Poster](./posters/Direct%20From%20Disc%20Collection%20Poster.png)
+- [Direct From Disc Overlay](./overlays/Direct%20From%20Disc%20Overlay.png)
+
+The overlay can be applied manually or incorporated into automation tools such as Kometa. Because overlay configurations vary between libraries, a prebuilt Kometa configuration is not currently included.
 
 ## File Naming
 
@@ -104,6 +139,6 @@ Found a typo, incorrect file, or another problem?
 
 ## Disclaimer
 
-This repository contains unofficial fan artwork and is not affiliated with Plex, MediUX, any film studio, distributor, franchise owner, or other rights holder.
+This repository contains unofficial fan artwork and is not affiliated with Plex, MediUX, Kometa, any film studio, distributor, franchise owner, or other rights holder.
 
-Movie titles, characters, logos, trademarks, and related intellectual property belong to their respective owners.
+This repository contains artwork only and does not provide movies or other media files. Movie titles, characters, logos, trademarks, and related intellectual property belong to their respective owners.
