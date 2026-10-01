@@ -85,60 +85,30 @@ The named ZIP is the recommended complete download and includes the final poster
 ## Direct From Disc Assets
 
 <p align="center">
-  <a href="./posters/Direct%20From%20Disc%20Collection%20Poster.png">
-    <img src="./posters/Direct%20From%20Disc%20Collection%20Poster.png" alt="Direct From Disc collection poster" width="280">
+  <a href="./overlays/Direct%20From%20Disc%20Overlay.png">
+    <img src="./overlays/Direct%20From%20Disc%20Overlay.png" alt="Direct From Disc transparent overlay" width="560">
   </a>
 </p>
 
-The repository includes a matching collection poster and transparent overlay for identifying titles sourced directly from your own physical media.
+<p align="center">
+  <em>Click the overlay to open and download the full PNG.</em>
+</p>
 
-- [Direct From Disc Collection Poster](./posters/Direct%20From%20Disc%20Collection%20Poster.png)
-- [Direct From Disc Overlay](./overlays/Direct%20From%20Disc%20Overlay.png)
+The reusable [Direct From Disc Overlay](./overlays/Direct%20From%20Disc%20Overlay.png) provides a polished way to identify titles sourced directly from your own physical media.
 
-The overlay can be applied manually or incorporated into automation tools such as Kometa. Because overlay configurations vary between libraries, a prebuilt Kometa configuration is not currently included.
+It can be applied manually or incorporated into automation tools such as Kometa. Because positioning and overlay configurations vary between libraries, a prebuilt Kometa configuration is not currently included.
 
-## File Naming
+An optional matching [Direct From Disc Collection Poster](./posters/Direct%20From%20Disc%20Collection%20Poster.png) is also included.
 
-Final selections follow this format:
+<details>
+<summary><strong>View the optional BullockBuster collection poster</strong></summary>
 
-```text
-Movie or Franchise Name Collection Poster.png
-```
+<br>
 
-Alternate designs follow this format:
+<p align="center">
+  <a href="./posters/Direct%20From%20Disc%20Collection%20Poster.png">
+    <img src="./posters/Direct%20From%20Disc%20Collection%20Poster.png" alt="Direct From Disc BullockBuster collection poster" width="280">
+  </a>
+</p>
 
-```text
-Movie or Franchise Name Collection Poster - Alternate 1.png
-```
-
-The poster without an alternate number is always the primary selected version.
-
-## Artwork Process
-
-The artwork in this repository is AI generated from original concepts and visual direction, followed by manual iteration, refinement, comparison, naming, selection, and curation.
-
-Multiple versions may be explored before a final design is selected. Rejected drafts are not included.
-
-## Usage and Attribution
-
-These posters are shared for personal, noncommercial media library use.
-
-You are welcome to use them in Plex or another personal media server. If you redistribute or showcase the artwork elsewhere, please credit **BullockBuster** and link back to this repository.
-
-Please do not sell the artwork, include it in paid poster packs, or represent it as official studio artwork.
-
-## MediUX
-
-Additional uploads can be found on [MediUX](https://mediux.pro) under the username **BullockBuster**.
-
-## Feedback
-
-Found a typo, incorrect file, or another problem?
-
-[Open an issue](https://github.com/BullockBuster/BullockBuster-Posters/issues) and let me know.
-
-## Disclaimer
-
-This repository contains unofficial fan artwork and is not affiliated with Plex, MediUX, Kometa, any film studio, distributor, franchise owner, or other rights holder.
-
-This repository contains artwork only and does not provide movies or other media files. Movie titles, characters, logos, trademarks, and related intellectual property belong to their respective owners.
+</details>
